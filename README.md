@@ -1,6 +1,6 @@
 # pandas_notes
 
-**This file contains the basis of pandas and some practice sessions
+**This file contains the basis of pandas and some practice session**s
 
 **Topics covered**
 1. pandas
